@@ -39,4 +39,5 @@ The data consists of a text file of diagonal sudokus for you to solve.
 
 ### References
 https://github.com/Tuuleh/insight_challenge
+
 https://github.com/nikhilranjan7/sudoku-solver
